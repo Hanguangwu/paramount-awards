@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pritzker-1983-1",
+    "name": "I. M. Pei",
+    "year": 1983,
+    "category": "Architecture",
+    "reason": "for his mastery of light, geometry, and materials, exemplified by the Louvre Pyramid and Bank of China Tower",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-1989-1",
+    "name": "Frank Gehry",
+    "year": 1989,
+    "category": "Architecture",
+    "reason": "for his sculptural, deconstructivist designs that transformed the landscape of contemporary architecture",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-1995-1",
+    "name": "Tadao Ando",
+    "year": 1995,
+    "category": "Architecture",
+    "reason": "for his minimalist concrete architecture that masterfully integrates light and nature",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-1998-1",
+    "name": "Renzo Piano",
+    "year": 1998,
+    "category": "Architecture",
+    "reason": "for his poetic, light-filled buildings including the Centre Pompidou and the Shard",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-1999-1",
+    "name": "Norman Foster",
+    "year": 1999,
+    "category": "Architecture",
+    "reason": "for his high-tech architecture blending engineering innovation with sustainable design",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2000-1",
+    "name": "Rem Koolhaas",
+    "year": 2000,
+    "category": "Architecture",
+    "reason": "for his visionary architectural theories and innovative buildings that challenge conventions",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2004-1",
+    "name": "Zaha Hadid",
+    "year": 2004,
+    "category": "Architecture",
+    "reason": "for her bold, futuristic forms and being the first woman to receive the Pritzker Prize",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2010-1",
+    "name": "Kazuyo Sejima / Ryue Nishizawa",
+    "year": 2010,
+    "category": "Architecture",
+    "reason": "for their transparent,轻盈 architecture that blurs boundaries between interior and exterior",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2014-1",
+    "name": "Shigeru Ban",
+    "year": 2014,
+    "category": "Architecture",
+    "reason": "for his innovative use of paper and cardboard in disaster relief housing and sustainable design",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2016-1",
+    "name": "Alejandro Aravena",
+    "year": 2016,
+    "category": "Architecture",
+    "reason": "for his socially engaged architecture addressing housing crises through participatory design",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2023-1",
+    "name": "David Chipperfield",
+    "year": 2023,
+    "category": "Architecture",
+    "reason": "for his restrained, timeless architecture that respects history while embracing the contemporary",
+    "award": "pritzker"
+  },
+  {
+    "id": "pritzker-2025-1",
+    "name": "Tiantian Xu",
+    "year": 2025,
+    "category": "Architecture",
+    "reason": "for her architecture that transformed villages throughout China economically, socially, and culturally",
+    "award": "pritzker"
+  }
+]

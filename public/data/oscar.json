@@ -1,0 +1,98 @@
+[
+  {
+    "id": "oscar-1994-1",
+    "name": "Schindler's List",
+    "year": 1994,
+    "category": "Best Picture",
+    "reason": "Steven Spielberg's devastating Holocaust epic about Oskar Schindler who saved over a thousand Jewish lives",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-1973-1",
+    "name": "The Godfather",
+    "year": 1973,
+    "category": "Best Picture",
+    "reason": "Francis Ford Coppola's landmark crime saga tracing the Corleone family's rise and fall",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-1975-1",
+    "name": "The Godfather Part II",
+    "year": 1975,
+    "category": "Best Picture",
+    "reason": "A rare sequel that surpasses the original, exploring both Vito's youth and Michael's descent",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-1998-1",
+    "name": "Titanic",
+    "year": 1998,
+    "category": "Best Picture",
+    "reason": "James Cameron's epic romance-disaster film that broke box office records and won 11 Oscars",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2004-1",
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2004,
+    "category": "Best Picture",
+    "reason": "Peter Jackson's triumphant conclusion to the epic fantasy trilogy, winning all 11 nominated Oscars",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2020-1",
+    "name": "Parasite",
+    "year": 2020,
+    "category": "Best Picture",
+    "reason": "Bong Joon-ho's genre-defying masterpiece about class divide that made history as first non-English Best Picture winner",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2023-1",
+    "name": "Everything Everywhere All at Once",
+    "year": 2023,
+    "category": "Best Picture",
+    "reason": "The Daniels' multiverse-spanning martial arts comedy-drama that swept the Oscars with 7 wins",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2024-1",
+    "name": "Oppenheimer",
+    "year": 2024,
+    "category": "Best Picture",
+    "reason": "Christopher Nolan's monumental biopic of the father of the atomic bomb",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2026-director",
+    "name": "Paul Thomas Anderson - One Battle After Another",
+    "year": 2026,
+    "category": "Best Director",
+    "reason": "For his sweeping political drama about an ex-revolutionary searching for his daughter, winning his first Oscar after 11 nominations",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2015-1",
+    "name": "Birdman",
+    "year": 2015,
+    "category": "Best Picture",
+    "reason": "Alejandro Iñárritu's daring single-shot illusion comedy-drama about a washed-up actor",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-2010-1",
+    "name": "The Hurt Locker",
+    "year": 2010,
+    "category": "Best Picture",
+    "reason": "Kathryn Bigelow's tense war drama, making her the first woman to win Best Director",
+    "award": "oscar"
+  },
+  {
+    "id": "oscar-1994-director",
+    "name": "Steven Spielberg - Schindler's List",
+    "year": 1994,
+    "category": "Best Director",
+    "reason": "For his profoundly humane direction of the Holocaust epic Schindler's List",
+    "award": "oscar"
+  }
+]

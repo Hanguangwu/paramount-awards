@@ -1,0 +1,98 @@
+[
+  {
+    "id": "wolf-1988-physics",
+    "name": "Stephen Hawking",
+    "year": 1988,
+    "category": "Physics",
+    "reason": "for his contributions to our understanding of the universe, including the theory of black hole radiation",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2020-medicine",
+    "name": "Emmanuelle Charpentier / Jennifer Doudna",
+    "year": 2020,
+    "category": "Medicine",
+    "reason": "for deciphering and repurposing the bacterial CRISPR/Cas9 immune system for genome editing",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2001-math",
+    "name": "Vladimir Arnold",
+    "year": 2001,
+    "category": "Mathematics",
+    "reason": "for his profound contributions to dynamical systems, differential equations, and singularity theory",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2010-math",
+    "name": "Shing-Tung Yau",
+    "year": 2010,
+    "category": "Mathematics",
+    "reason": "for his work in geometric analysis that has profoundly shaped modern mathematics",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2023-chemistry",
+    "name": "Chuan He",
+    "year": 2023,
+    "category": "Chemistry",
+    "reason": "for pioneering discoveries in reversible RNA methylation and its roles in gene expression",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2018-arts",
+    "name": "Paul McCartney",
+    "year": 2018,
+    "category": "Arts",
+    "reason": "for his enduring impact on music and popular culture as one of the most influential songwriters of all time",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2021-physics",
+    "name": "Giorgio Parisi",
+    "year": 2021,
+    "category": "Physics",
+    "reason": "for groundbreaking discoveries in disordered systems and the physics of complex systems",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2010-physics",
+    "name": "Anton Zeilinger",
+    "year": 2010,
+    "category": "Physics",
+    "reason": "for fundamental contributions to quantum physics, particularly quantum entanglement and teleportation",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-1979-medicine",
+    "name": "Roger W. Sperry",
+    "year": 1979,
+    "category": "Medicine",
+    "reason": "for his discoveries concerning the functional specialization of the cerebral hemispheres",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2017-math",
+    "name": "Charles Fefferman / Richard Schoen",
+    "year": 2017,
+    "category": "Mathematics",
+    "reason": "for their contributions to analysis and geometric analysis",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2025-physics",
+    "name": "James Eisenstein / Jainendra Jain / Mordehai Heiblum",
+    "year": 2025,
+    "category": "Physics",
+    "reason": "for advancing our understanding of two-dimensional electron systems in strong magnetic fields",
+    "award": "wolf"
+  },
+  {
+    "id": "wolf-2025-agriculture",
+    "name": "Jonathan Jones / Jeffery Dangl / Brian Staskawicz",
+    "year": 2025,
+    "category": "Agriculture",
+    "reason": "for groundbreaking discoveries of the immune system and disease resistance in plants",
+    "award": "wolf"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "grammy-1984-1",
+    "name": "Michael Jackson - Thriller",
+    "year": 1984,
+    "category": "Album of the Year",
+    "reason": "The best-selling album of all time, revolutionizing pop music, music videos, and the music industry",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-1968-1",
+    "name": "The Beatles - Sgt. Pepper's Lonely Hearts Club Band",
+    "year": 1968,
+    "category": "Album of the Year",
+    "reason": "A groundbreaking concept album that redefined what popular music could achieve artistically",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-1977-1",
+    "name": "Stevie Wonder - Songs in the Key of Life",
+    "year": 1977,
+    "category": "Album of the Year",
+    "reason": "A landmark double album showcasing Wonder's genius across funk, soul, jazz, and pop",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2012-1",
+    "name": "Adele - 21",
+    "year": 2012,
+    "category": "Album of the Year",
+    "reason": "A soul-baring breakup album that became a global phenomenon with universal emotional resonance",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2020-1",
+    "name": "Billie Eilish - When We All Fall Asleep, Where Do We Go?",
+    "year": 2020,
+    "category": "Album of the Year",
+    "reason": "A genre-defying debut that captured the anxieties of a generation, winning all top four categories",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2021-1",
+    "name": "Taylor Swift - Folklore",
+    "year": 2021,
+    "category": "Album of the Year",
+    "reason": "An intimate indie-folk departure showcasing Swift's storytelling craft during the pandemic",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2018-1",
+    "name": "Bruno Mars - 24K Magic",
+    "year": 2018,
+    "category": "Album of the Year",
+    "reason": "A retro-funk tour de force that swept all six categories it was nominated in",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2025-1",
+    "name": "Kendrick Lamar - Not Like Us",
+    "year": 2025,
+    "category": "Record of the Year",
+    "reason": "A cultural-defining track that won Record and Song of the Year, cementing Lamar's legacy",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2010-1",
+    "name": "Taylor Swift - Fearless",
+    "year": 2010,
+    "category": "Album of the Year",
+    "reason": "Swift's breakthrough country-pop album that made her the youngest Album of the Year winner at age 20",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-1999-1",
+    "name": "Lauryn Hill - The Miseducation of Lauryn Hill",
+    "year": 1999,
+    "category": "Album of the Year",
+    "reason": "A landmark fusion of hip-hop, soul, and reggae that became the first hip-hop album to win Album of the Year",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2001-1",
+    "name": "Steely Dan - Two Against Nature",
+    "year": 2001,
+    "category": "Album of the Year",
+    "reason": "A masterfully crafted jazz-rock album showcasing the duo's meticulous production and songwriting",
+    "award": "grammy"
+  },
+  {
+    "id": "grammy-2026-1",
+    "name": "Bad Bunny - DeBÍ TiRAR MáS FOToS",
+    "year": 2026,
+    "category": "Album of the Year",
+    "reason": "First primarily Spanish-language album to win Album of the Year, marking a historic milestone",
+    "award": "grammy"
+  }
+]

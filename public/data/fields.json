@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fields-2022-1",
+    "name": "Maryna Viazovska",
+    "year": 2022,
+    "category": "Fields Medal",
+    "reason": "for solving the sphere-packing problem in dimensions 8 and 24",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2022-2",
+    "name": "Hugo Duminil-Copin",
+    "year": 2022,
+    "category": "Fields Medal",
+    "reason": "for solving long-standing problems in the probabilistic theory of phase transitions in statistical physics",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2022-3",
+    "name": "June Huh",
+    "year": 2022,
+    "category": "Fields Medal",
+    "reason": "for bringing the ideas of Hodge theory to combinatorics",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2022-4",
+    "name": "James Maynard",
+    "year": 2022,
+    "category": "Fields Medal",
+    "reason": "for contributions to analytic number theory that have led to major advances in the understanding of prime number distribution",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2018-1",
+    "name": "Peter Scholze",
+    "year": 2018,
+    "category": "Fields Medal",
+    "reason": "for transforming arithmetic algebraic geometry through his introduction of perfectoid spaces",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2018-2",
+    "name": "Caucher Birkar",
+    "year": 2018,
+    "category": "Fields Medal",
+    "reason": "for proving the boundedness of Fano varieties and contributions to the minimal model program",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2014-1",
+    "name": "Maryam Mirzakhani",
+    "year": 2014,
+    "category": "Fields Medal",
+    "reason": "for outstanding contributions to the dynamics and geometry of Riemann surfaces and their moduli spaces",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2006-1",
+    "name": "Terence Tao",
+    "year": 2006,
+    "category": "Fields Medal",
+    "reason": "for his contributions to partial differential equations, combinatorics, harmonic analysis and additive number theory",
+    "award": "fields"
+  },
+  {
+    "id": "fields-2010-1",
+    "name": "Cédric Villani",
+    "year": 2010,
+    "category": "Fields Medal",
+    "reason": "for his proofs of nonlinear Landau damping and convergence to equilibrium for the Boltzmann equation",
+    "award": "fields"
+  },
+  {
+    "id": "fields-1982-1",
+    "name": "Shing-Tung Yau",
+    "year": 1982,
+    "category": "Fields Medal",
+    "reason": "for his contributions to differential geometry and partial differential equations, including the proof of the Calabi conjecture",
+    "award": "fields"
+  },
+  {
+    "id": "fields-1962-1",
+    "name": "John Milnor",
+    "year": 1962,
+    "category": "Fields Medal",
+    "reason": "for his work in differential topology, including the discovery of exotic spheres",
+    "award": "fields"
+  },
+  {
+    "id": "fields-1936-1",
+    "name": "Lars Ahlfors",
+    "year": 1936,
+    "category": "Fields Medal",
+    "reason": "for his contributions to complex analysis, including the theory of Riemann surfaces",
+    "award": "fields"
+  }
+]
