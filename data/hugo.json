@@ -1,0 +1,98 @@
+[
+  {
+    "id": "hugo-1966-1",
+    "name": "Frank Herbert - Dune",
+    "year": 1966,
+    "category": "Best Novel",
+    "reason": "A sweeping epic of politics, ecology, and religion set on the desert planet Arrakis",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-1970-1",
+    "name": "Ursula K. Le Guin - The Left Hand of Darkness",
+    "year": 1970,
+    "category": "Best Novel",
+    "reason": "A groundbreaking exploration of gender and society on the planet Gethen",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-1973-1",
+    "name": "Isaac Asimov - The Gods Themselves",
+    "year": 1973,
+    "category": "Best Novel",
+    "reason": "A masterwork exploring contact with a parallel universe and the nature of scientific progress",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-1974-1",
+    "name": "Arthur C. Clarke - Rendezvous with Rama",
+    "year": 1974,
+    "category": "Best Novel",
+    "reason": "A mysterious alien spacecraft enters the solar system, discovered by human explorers",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-1985-1",
+    "name": "William Gibson - Neuromancer",
+    "year": 1985,
+    "category": "Best Novel",
+    "reason": "The defining cyberpunk novel that popularized the concept of cyberspace",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-1986-1",
+    "name": "Orson Scott Card - Ender's Game",
+    "year": 1986,
+    "category": "Best Novel",
+    "reason": "A gifted child is trained through strategic war games to defend Earth against alien threat",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-1992-1",
+    "name": "Lois McMaster Bujold - Barrayar",
+    "year": 1992,
+    "category": "Best Novel",
+    "reason": "A tale of political intrigue and personal courage in a spacefaring empire",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-2002-1",
+    "name": "Neil Gaiman - American Gods",
+    "year": 2002,
+    "category": "Best Novel",
+    "reason": "A mythic road trip across America where ancient gods clash with new deities of technology and media",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-2015-1",
+    "name": "Cixin Liu - The Three-Body Problem",
+    "year": 2015,
+    "category": "Best Novel",
+    "reason": "First contact with an alien civilization unfolds against the backdrop of China's Cultural Revolution",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-2016-1",
+    "name": "N.K. Jemisin - The Fifth Season",
+    "year": 2016,
+    "category": "Best Novel",
+    "reason": "On a world wracked by catastrophic seismic activity, a woman seeks her missing daughter amidst apocalypse",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-2020-1",
+    "name": "Arkady Martine - A Memory Called Empire",
+    "year": 2020,
+    "category": "Best Novel",
+    "reason": "A diplomat from a small space station must navigate the intrigue of a vast galactic empire",
+    "award": "hugo"
+  },
+  {
+    "id": "hugo-2025-1",
+    "name": "Robert Jackson Bennett - The Tainted Cup",
+    "year": 2025,
+    "category": "Best Novel",
+    "reason": "A murder mystery in a fantastical empire where magic and biology intertwine",
+    "award": "hugo"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "darwin-2023-1",
+    "name": "The \"Selfie\" Gunman",
+    "year": 2023,
+    "category": "Darwin Award",
+    "reason": "A man shot himself in the leg while attempting to take a selfie with a loaded gun, then bled to death before help arrived",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2023-2",
+    "name": "The Hydrogen Balloon Pilot",
+    "year": 2023,
+    "category": "Darwin Award",
+    "reason": "A hot air balloon pilot replaced helium with hydrogen to save money, causing a fatal explosion",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2022-1",
+    "name": "The Drain Cleaner Dare",
+    "year": 2022,
+    "category": "Darwin Award",
+    "reason": "A man ingested drain cleaner on a dare, believing his \"strong stomach\" would protect him",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2022-2",
+    "name": "The Gas Station Fire",
+    "year": 2022,
+    "category": "Darwin Award",
+    "reason": "A driver tried to refuel a running car with a lit cigarette in hand, igniting the gasoline vapors",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2021-1",
+    "name": "The Rooftop Jump",
+    "year": 2021,
+    "category": "Darwin Award",
+    "reason": "A man attempting a parkour stunt jumped between rooftops but miscalculated the distance, falling six stories",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2021-2",
+    "name": "The Firework Suit",
+    "year": 2021,
+    "category": "Darwin Award",
+    "reason": "A man covered himself with fireworks and lit them in an attempt to create a \"human firework display\"",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2020-1",
+    "name": "The Escalator Slide",
+    "year": 2020,
+    "category": "Darwin Award",
+    "reason": "A man tried to slide down an escalator handrail but was thrown off at the bottom, suffering fatal injuries",
+    "award": "darwin"
+  },
+  {
+    "id": "darwin-2020-2",
+    "name": "The Bear Selfie",
+    "year": 2020,
+    "category": "Darwin Award",
+    "reason": "A woman approached a wild bear for a selfie and was mauled fatally",
+    "award": "darwin"
+  }
+]

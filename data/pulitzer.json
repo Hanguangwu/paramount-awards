@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pulitzer-1953-1",
+    "name": "Ernest Hemingway - The Old Man and the Sea",
+    "year": 1953,
+    "category": "Fiction",
+    "reason": "A masterful novella about an aging fisherman's epic struggle with a giant marlin",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-1961-1",
+    "name": "Harper Lee - To Kill a Mockingbird",
+    "year": 1961,
+    "category": "Fiction",
+    "reason": "A poignant novel about racial injustice and moral growth in the American South",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-1988-1",
+    "name": "Toni Morrison - Beloved",
+    "year": 1988,
+    "category": "Fiction",
+    "reason": "A haunting exploration of the enduring trauma of slavery through the story of a runaway mother",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2007-1",
+    "name": "Cormac McCarthy - The Road",
+    "year": 2007,
+    "category": "Fiction",
+    "reason": "A stark, powerful tale of a father and son surviving in a post-apocalyptic world",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2008-1",
+    "name": "Junot Díaz - The Brief Wondrous Life of Oscar Wao",
+    "year": 2008,
+    "category": "Fiction",
+    "reason": "A vibrant novel weaving Dominican history with the story of a misfit sci-fi obsessive",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2015-1",
+    "name": "Anthony Doerr - All the Light We Cannot See",
+    "year": 2015,
+    "category": "Fiction",
+    "reason": "A luminous story of a blind French girl and a German boy whose paths cross in occupied France",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2017-1",
+    "name": "Colson Whitehead - The Underground Railroad",
+    "year": 2017,
+    "category": "Fiction",
+    "reason": "A daring reimagining of the Underground Railroad as an actual railroad in the antebellum South",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2020-1",
+    "name": "Colson Whitehead - The Nickel Boys",
+    "year": 2020,
+    "category": "Fiction",
+    "reason": "A devastating novel based on the true story of a brutal reform school in Florida",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2023-1",
+    "name": "Barbara Kingsolver - Demon Copperhead",
+    "year": 2023,
+    "category": "Fiction",
+    "reason": "A modern retelling of David Copperfield set in contemporary Appalachia",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2025-1",
+    "name": "Percival Everett - James",
+    "year": 2025,
+    "category": "Fiction",
+    "reason": "A bold retelling of Adventures of Huckleberry Finn from the perspective of Jim",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2021-service",
+    "name": "Staff of The New York Times",
+    "year": 2021,
+    "category": "Public Service",
+    "reason": "for courageous, groundbreaking coverage of the COVID-19 pandemic",
+    "award": "pulitzer"
+  },
+  {
+    "id": "pulitzer-2026-breaking",
+    "name": "Staff of The Minnesota Star Tribune",
+    "year": 2026,
+    "category": "Breaking News",
+    "reason": "for coverage of a shooting at a back-to-school Mass that left two children dead and 17 wounded",
+    "award": "pulitzer"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "turing-2016-1",
+    "name": "Tim Berners-Lee",
+    "year": 2016,
+    "category": "Computer Science",
+    "reason": "for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2018-1",
+    "name": "Geoffrey Hinton / Yoshua Bengio / Yann LeCun",
+    "year": 2018,
+    "category": "Computer Science",
+    "reason": "for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing",
+    "award": "turing"
+  },
+  {
+    "id": "turing-1974-1",
+    "name": "Donald Knuth",
+    "year": 1974,
+    "category": "Computer Science",
+    "reason": "for his major contributions to the analysis of algorithms and the design of programming languages, and in particular for his contributions to 'The Art of Computer Programming'",
+    "award": "turing"
+  },
+  {
+    "id": "turing-1983-1",
+    "name": "Dennis Ritchie / Ken Thompson",
+    "year": 1983,
+    "category": "Computer Science",
+    "reason": "for their development of generic operating systems theory and specifically for the implementation of the UNIX operating system",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2004-1",
+    "name": "Vint Cerf / Bob Kahn",
+    "year": 2004,
+    "category": "Computer Science",
+    "reason": "for their pioneering work on the design and implementation of the TCP/IP protocol suite",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2006-1",
+    "name": "Frances Allen",
+    "year": 2006,
+    "category": "Computer Science",
+    "reason": "for pioneering contributions to the theory and practice of optimizing compiler techniques",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2008-1",
+    "name": "Barbara Liskov",
+    "year": 2008,
+    "category": "Computer Science",
+    "reason": "for contributions to practical and theoretical foundations of programming language and system design, especially related to data abstraction, fault tolerance, and distributed computing",
+    "award": "turing"
+  },
+  {
+    "id": "turing-1972-1",
+    "name": "Edsger Dijkstra",
+    "year": 1972,
+    "category": "Computer Science",
+    "reason": "for fundamental contributions to programming language design and the art and practice of computer programming",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2002-1",
+    "name": "Leonard Adleman / Ron Rivest / Adi Shamir",
+    "year": 2002,
+    "category": "Computer Science",
+    "reason": "for their ingenious contribution to making public-key cryptography useful in practice",
+    "award": "turing"
+  },
+  {
+    "id": "turing-1999-1",
+    "name": "Fred Brooks",
+    "year": 1999,
+    "category": "Computer Science",
+    "reason": "for landmark contributions to computer architecture, operating systems, and software engineering",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2017-1",
+    "name": "John L. Hennessy / David Patterson",
+    "year": 2017,
+    "category": "Computer Science",
+    "reason": "for pioneering a systematic, quantitative approach to the design and evaluation of computer architectures",
+    "award": "turing"
+  },
+  {
+    "id": "turing-2012-1",
+    "name": "Shafi Goldwasser / Silvio Micali",
+    "year": 2012,
+    "category": "Computer Science",
+    "reason": "for transformative work that laid the complexity-theoretic foundations for the science of cryptography",
+    "award": "turing"
+  }
+]

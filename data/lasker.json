@@ -1,0 +1,66 @@
+[
+  {
+    "id": "lasker-2024-basic",
+    "name": "Zhijian \"James\" Chen",
+    "year": 2024,
+    "category": "Basic Medical Research",
+    "reason": "for the discovery of the cGAS enzyme that senses DNA and triggers immune responses",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2024-clinical",
+    "name": "Joel Habener / Lotte Bjerre Knudsen / Svetlana Mojsov",
+    "year": 2024,
+    "category": "Clinical Medical Research",
+    "reason": "for the discovery and development of GLP-1-based drugs that revolutionized treatment of obesity and diabetes",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2023-basic",
+    "name": "Demis Hassabis / John M. Jumper",
+    "year": 2023,
+    "category": "Basic Medical Research",
+    "reason": "for the development of AlphaFold, an AI system for predicting protein structures",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2023-clinical",
+    "name": "James G. Fujimoto / David Huang / Eric A. Swanson",
+    "year": 2023,
+    "category": "Clinical Medical Research",
+    "reason": "for the invention of optical coherence tomography (OCT) for imaging the retina and coronary arteries",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2022-basic",
+    "name": "Richard O. Hynes / Erkki Ruoslahti / Timothy A. Springer",
+    "year": 2022,
+    "category": "Basic Medical Research",
+    "reason": "for discoveries concerning integrins, the cell adhesion molecules that regulate cell movement and communication",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2022-clinical",
+    "name": "Yusuke Nakamura / Anne-Lise Børresen-Dale / Mary-Claire King",
+    "year": 2022,
+    "category": "Clinical Medical Research",
+    "reason": "for discoveries that established BRCA1/BRCA2 as genes that cause hereditary breast and ovarian cancer",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2024-public",
+    "name": "Quarraisha Abdool Karim / Salim S. Abdool Karim",
+    "year": 2024,
+    "category": "Public Service",
+    "reason": "for demonstrating that an antiretroviral drug can prevent heterosexual transmission of HIV",
+    "award": "lasker"
+  },
+  {
+    "id": "lasker-2023-public",
+    "name": "The International AIDS Vaccine Initiative / Anthony S. Fauci",
+    "year": 2023,
+    "category": "Public Service",
+    "reason": "for contributions to HIV vaccine research and the global fight against infectious diseases",
+    "award": "lasker"
+  }
+]
